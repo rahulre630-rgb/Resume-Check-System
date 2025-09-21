@@ -1,0 +1,6 @@
+streamlit==1.38.0
+pdfplumber==0.11.0
+sentence-transformers==2.2.2
+torch==2.2.2
+transformers==4.41.2
+regex==2024.5.15
