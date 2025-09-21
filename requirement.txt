@@ -1,0 +1,8 @@
+streamlit==1.38.0
+PyMuPDF==1.23.26
+sentence-transformers==2.2.2
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+numpy==1.26.4
+
