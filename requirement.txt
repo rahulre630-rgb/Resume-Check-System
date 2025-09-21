@@ -1,7 +1,0 @@
-streamlit
-PyMuPDF==1.23.26
-sentence-transformers
-torch
-torchvision
-torchaudio
-transformers
